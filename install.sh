@@ -8,5 +8,8 @@ bash ~/.dotfiles/.osx
 # install brew packages
 bash ~/.dotfiles/.brew
 
+# install npm packages
+bash ~/.dotfiles/.npm
+
 # global gitignore
 git config --global core.excludesfile ~/.global_ignore
