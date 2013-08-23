@@ -50,11 +50,6 @@ function git_info() {
 	echo $WHITE" on "$PURPLE$branch$dirty
 }
 
-# Only show username/host if not default
-function usernamehost() {
-	echo $default_username
-}
-
 # iTerm Tab and Title Customization and prompt customization
 # http://sage.ucsc.edu/xtal/iterm_tab_customization.html
 
