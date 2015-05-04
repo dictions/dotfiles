@@ -5,10 +5,10 @@ alias ....="cd ../../.."
 alias .....="cd ../../../.."
 
 # Folder nav
-alias desk="cd ~/Desktop"
+alias desktop="cd ~/Desktop"
 alias dropbox="cd ~/Desktop/Dropbox"
 alias goog="cd ~/Desktop/Google\ Drive/"
-alias repos="cd ~/dev"
+alias repos="cd ~/repos"
 
 # Programs
 alias slt='open -a "Sublime Text 2"'
