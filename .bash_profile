@@ -8,3 +8,6 @@ unset file
 # Prefer US English and use UTF-8
 export LC_ALL="en_US.UTF-8"
 export LANG="en_US"
+
+# Path Junk
+PATH=$PATH:/usr/local/sbin
