@@ -5,14 +5,7 @@ alias ....="cd ../../.."
 alias .....="cd ../../../.."
 
 # Folder nav
-alias desktop="cd ~/Desktop"
-alias dropbox="cd ~/Desktop/Dropbox"
-alias goog="cd ~/Desktop/Google\ Drive/"
-alias repos="cd ~/repos"
-
-# Programs
-alias slt='open -a "Sublime Text 2"'
-alias chrome='open -a "Google Chrome"'
+alias dev="cd ~/dev"
 
 # Detect which `ls` flavor is in use
 if ls --color > /dev/null 2>&1; then # GNU `ls`

@@ -1,0 +1,5 @@
+# Add sysadmin executables
+PATH=$PATH:/usr/local/sbin
+
+# Shopify Themekit
+PATH=/Users/iwillinc/.themekit:$PATH

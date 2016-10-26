@@ -1,0 +1,56 @@
+"*":
+  core:
+    disabledPackages: [
+      "wrap-guide"
+      "notifications"
+    ]
+    telemetryConsent: "no"
+  editor:
+    fontSize: 17
+    invisibles: {}
+    preferredLineLength: 1
+    scrollPastEnd: true
+    showIndentGuide: true
+    showInvisibles: true
+    softTabs: false
+    tabLength: 4
+  "exception-reporting":
+    userId: "bb3fdc72-187f-7d38-24cd-0089bafecd49"
+  linter:
+    showErrorPanel: false
+  "linter-eslint": {}
+  "markdown-deluxe":
+    fontFamily: "Roboto Mono"
+  "markdown-preview": {}
+  "open-recent": {}
+  "spell-check":
+    grammars: [
+      "source.md"
+    ]
+  tabs:
+    usePreviewTabs: true
+  "tree-view": {}
+  welcome:
+    showOnStartup: false
+  whitespace:
+    ensureSingleTrailingNewline: false
+    ignoreWhitespaceOnlyLines: true
+".babel.regexp.source":
+  editor:
+    preferredLineLength: 1
+    tabLength: 4
+".html.liquid.text":
+  editor:
+    preferredLineLength: 1
+    tabLength: 4
+".js.jsx.source":
+  editor:
+    preferredLineLength: 1
+    tabLength: 4
+".nginx.source":
+  editor:
+    preferredLineLength: 1
+    tabLength: 4
+"source.gfm":
+  editor:
+    softWrap: true
