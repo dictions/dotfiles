@@ -1,8 +1,8 @@
 # Add sysadmin executables
 PATH=$PATH:/usr/local/sbin
 
-# Shopify Themekit
-PATH=/Users/iwillinc/.themekit:$PATH
-
 # Go packages
 PATH=$GOPATH/bin:$PATH
+
+# Cdist
+PATH=~/.cdist/bin:$PATH
