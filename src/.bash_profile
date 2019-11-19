@@ -8,3 +8,7 @@ unset file
 # Prefer US English and use UTF-8
 export LC_ALL="en_US.UTF-8"
 export LANG="en_US"
+
+# TODO: install bash via brew?
+# Hides OSX Catalina zsh warning
+export BASH_SILENCE_DEPRECATION_WARNING=1
