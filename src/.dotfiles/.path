@@ -6,3 +6,6 @@ PATH=$GOPATH/bin:$PATH
 
 # Cdist
 PATH=~/.cdist/bin:$PATH
+
+# Ruby
+eval "$(rbenv init -)"
