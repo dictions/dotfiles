@@ -9,3 +9,6 @@ PATH=~/.cdist/bin:$PATH
 
 # Ruby
 eval "$(rbenv init - bash)"
+
+# Homebrew
+PATH=/opt/homebrew/bin:$PATH
